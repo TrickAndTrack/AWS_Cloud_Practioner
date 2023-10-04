@@ -14,6 +14,8 @@
   * Accessing data/application on remote servers
   * Computer power 
 ![image](https://github.com/TrickAndTrack/AWS_Cloud_Practioner/assets/73180409/ef71bfd1-de96-41b1-a01d-b528a92adb06)
+
+> On-Premises Deployment is also known as private cloud deployment.
 # Domains of AWS
 1) Compute
 2) Migration
