@@ -63,5 +63,13 @@
 * EBS Optimised
 * Cluster Networking
 * Dedicated
-  
-  
+# Amazon EC2
+* EC2 is one of the most populer of AWS' offering
+* EC2 = Elastic Compute Cloud = Infrastructure as a Service
+* It mainly consists in the capability of:
+   * Renting vitual machines(EC2)
+   * Storing data on vertual drives(EBS)
+   * Disrtibuting load across machines(ELB)
+   * Scalling the services using an auto-scaling group(ASG)
+*
+
